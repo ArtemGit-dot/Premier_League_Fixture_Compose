@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Premier League Fixture Compose</string>
+    <string name="change_word">Change Word</string>
+    <string name="app_bar">App Bar</string>
+</resources>
